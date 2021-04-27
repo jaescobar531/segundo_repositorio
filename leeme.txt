@@ -17,3 +17,5 @@ ramas, pull request del repositorio remoto
 ***git fetch***
 * cambiar a rama
 ***git chackout nombre_rama***
+
+añadimos modificaciones al archivo para sacar otra rama
