@@ -18,6 +18,9 @@ ramas, pull request del repositorio remoto
 * cambiar a rama
 ***git checkout nombre_rama***
 ***git branch***
+*comando para llevar los cambios que estan en las ramas secundarias a la rama principal*
+***git pull origin "secundaria"***
+*luego de actualizar la rama, se hace git push 
 
 
 
